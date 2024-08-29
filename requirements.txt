@@ -9,7 +9,7 @@ dnspython==1.15.0
 docker==7.0.0
 Faker==25.0.0
 fastapi==0.112.2
-Flask==1.0
+Flask==2.3.2
 h11==0.14.0
 idna==3.7
 iniconfig==2.0.0
