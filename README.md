@@ -1,2 +1,1 @@
-# otus2do
-*homeworks* for sale.
+# otus2025
